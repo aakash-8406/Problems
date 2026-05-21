@@ -1,4 +1,4 @@
-import java.util.HashMap;
+import java.util.*;
 
 public class balloonColor {
     public static void main (String[] args){
@@ -16,8 +16,5 @@ public class balloonColor {
             }
         }
         System.out.println("All are Even");
-//        System.out.println(map);
-
-
     }
 }
