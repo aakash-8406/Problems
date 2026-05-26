@@ -11,7 +11,7 @@ public class star_and_Hash {
                 hash++;
             }
         }
-        if(star> hash){
+        if(star > hash){
             System.out.println(star - hash);
         }else if(hash > star){
             System.out.println(star - hash);
