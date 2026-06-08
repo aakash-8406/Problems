@@ -5,9 +5,6 @@ public class count_non_common_numbers {
         Scanner sc=new Scanner(System.in);
         String l1=sc.nextLine();
         String l2=sc.nextLine();
-
-
-
         int count=0;
         int i=0,j=0;
         while(i<l1.length() || j< l2.length()){
